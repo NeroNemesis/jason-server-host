@@ -140,5 +140,55 @@
             "TQ": true,
             "imgUrl" : "https://i.ibb.co/6sFKdKm/obama.jpg"
         }
-    ]
+    ],
+	"EnglishTranslation": 
+	{
+        "french": "Françcais",
+		"title" : "Contact us",
+        "message": "Our courier service operates 7 days a week from 8 a.m. to 11 p.m. Do not hesitate to leave us an email, response times vary between 30 minutes and 2 hours.",
+        "tel": "You can also reach us also reach us at 1-800-000-0000 (Quebec) or 1-800-000-0001 (elsewhere).",
+        "mailPlaceholder": "Please enter your email address here...",
+        "messagePlaceholder": "Please enter your message here...",
+        "send": "Send",
+        "note": "Once the message has been sent, you will be redirected to the home page.",
+        "home": "Home",
+        "functioning": "Functioning",
+        "connection": "Connection",
+        "account": "Account",
+        "usefulLinks": "Useful links",
+        "beDriver": "Become a driver",
+        "incident": "Report an incident",
+        "lOrS": "Lost or stolen item",
+        "terms": "Terms of use",
+        "comm": "Contact us",
+        "days": "Monday-Friday 8am-5pm",
+        "qc": "Quebec",
+        "else": "Elsewhere",
+        "rights": "No rights yet reserved"
+	},
+    "FrenchTranslation": 
+    {
+        "english": "anglais",
+        "tiltle" : "Contactez nous",
+        "message": "Notre service de messagerie fonctionne 7jours/7 de 8h à 23h. N’hésitez pas à nous laisser un courriel, les délais de réponses varient entre 30 minutes et 2 heures.",
+        "tel": "Vous pouvez aussi nous joindre aussi nous joindre au 1-800-000-0000 (Québec) ou 1-800-000-0001 (Ailleurs).",
+        "mailPlaceholder": "Veuillez entrer votre mail ici...",
+        "messagePlaceholder": "Veuillez entrez votre message ici...",
+        "send": "Envoyer",
+        "note": "Une fois le message envoyé, vous serez redirigé vers la page d’accueil.",
+        "home": "Accueil",
+        "functioning": "Fonctionnement",
+        "connection": "Connexion",
+        "account": "Compte",
+        "usefulLinks": "Liens utiles",
+        "beDriver": "Devenir un conducteur",
+        "incident": "Signaler un incident",
+        "lOrS": "Objet perdu ou volé",
+        "terms": "Conditions d'utilisation",
+        "comm": "Communiquez avec nous",
+        "days": "Lundi-Vendredi 8h-17h",
+        "qc": "Québec",
+        "else": "Ailleurs",
+        "rights": "Aucun droit réservé"
+    }
 }
