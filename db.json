@@ -169,7 +169,7 @@
     "FrenchTranslation": 
     {
         "english": "anglais",
-        "tiltle" : "Contactez nous",
+        "title" : "Contactez nous",
         "message": "Notre service de messagerie fonctionne 7jours/7 de 8h à 23h. N’hésitez pas à nous laisser un courriel, les délais de réponses varient entre 30 minutes et 2 heures.",
         "tel": "Vous pouvez aussi nous joindre aussi nous joindre au 1-800-000-0000 (Québec) ou 1-800-000-0001 (Ailleurs).",
         "mailPlaceholder": "Veuillez entrer votre mail ici...",
