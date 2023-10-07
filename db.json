@@ -197,5 +197,13 @@
         "else": "Ailleurs",
         "rights": "Aucun droit réservé"
     },
-    "users" : []
+    "users" : [
+	    {
+		    "id":1,
+		    "firstName" : "John",
+		    "lastName" : "Doe",
+		    "phoneNumber" : "123-456-7890",
+		    "email" : "johndoe@gmail.com"
+	    }
+    ]
 }
